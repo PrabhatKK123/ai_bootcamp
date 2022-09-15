@@ -1,8 +1,0 @@
-demo for vim
-
-lko
-del
-
-rm
-mkdir
-rmdir
